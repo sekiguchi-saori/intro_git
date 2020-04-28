@@ -3,3 +3,4 @@ git 練習
 変更します
 
 gitstatus
+Git diff
